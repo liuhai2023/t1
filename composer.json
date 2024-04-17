@@ -1,0 +1,12 @@
+{
+    "name": "huzi/t1",
+    "description": "t1",
+    "autoload": {
+        "psr-4": {
+            "Huzi\\T1\\": "src/"
+        }
+    },
+    "require": {
+        "nikic/fast-route": "^1.3"
+    }
+}
