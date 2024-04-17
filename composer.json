@@ -3,7 +3,7 @@
     "description": "t1",
     "autoload": {
         "psr-4": {
-            "Huzi\\T1\\": "src/"
+            "app\\": "app/"
         }
     },
     "require": {
